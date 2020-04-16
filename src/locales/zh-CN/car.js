@@ -1,0 +1,16 @@
+export default {
+  'car.title.add': '车辆添加',
+  'car.title.list': '车辆列表',
+  'car.name.laber': '车辆名称 ',
+  'car.name.placeholder': '请输入车辆名称',
+  'car.number.laber': '车牌号',
+  'car.number.placeholder': '请输入车牌号',
+  'car.capacity.laber': '限载人数 ',
+  'car.capacity.placeholder': '请输入限载人数',
+  'car.max_capacity.laber': '最大载客量 ',
+  'car.max_capacity.placeholder': '请输入最大载客量',
+  'car.type.laber': '车辆类型 ',
+  'car.type.placeholder': '请选择车辆类型',
+  'car.driver.laber': '司机 ',
+  'car.driver.placeholder': '请选择司机',
+}
